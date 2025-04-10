@@ -21,3 +21,4 @@ For 3D printed model files or any issues and malfunctions with the keyboard, ple
 
 <img src="keymap-drawer/sofle.svg" >
 
+README_EN
