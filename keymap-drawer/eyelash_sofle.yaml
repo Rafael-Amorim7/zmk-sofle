@@ -226,8 +226,8 @@ layers:
   - OUT USB
   - OUT BLE
   - {t: '$$mdi:backup-restore$$', type: bootloader}
-  - '&reset'
   - $$mdi:progress-download$$
+  - '&soft_off'
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
